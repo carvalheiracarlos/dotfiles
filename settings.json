@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "monokai-charcoal (gray)",
+    "vim.commandLineModeKeyBindings": [
+
+
+    
+    ],
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["k", "j"],
+            "after": ["<esc>"]
+        }
+],
+"extensions.ignoreRecommendations": true
+
+}
